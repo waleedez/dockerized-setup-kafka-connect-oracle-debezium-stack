@@ -1,2 +1,2 @@
 #Login in Oracle
-sqlplus debezium/dbz@//localhost:1521/orclpdb1
+sqlplus debezium/dbz@//localhost:1521/freepdb1
